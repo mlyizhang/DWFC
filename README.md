@@ -1,3 +1,3 @@
 # DWFC
-Density-Weighted Fuzzy Clustering with Structural Regularization and Uncertainty Constraint
-submitted to TFS
+Density-Weighted Fuzzy Clustering   
+submitted to PR
